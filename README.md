@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumitkumarswain
 - 👀 I’m interested to become Data Analyst
-- 🌱 I’m currently learning TABLEAU and tring improvise my data visualisation skill
+- 🌱 I’m a Google certified Data Analyst and have 1 year Internship experience and 1 month project experience 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - LinkedIn profile-(www.linkedin.com/in/sumit-swain-128678203)
 
